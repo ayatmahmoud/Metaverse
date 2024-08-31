@@ -27,8 +27,8 @@ This project is a **MetaVerse-inspired** front-end webpage designed to provide a
 
 ## Technologies Used
 
-- **HTML5:** For semantic structure and content organization.
-- **CSS3:** For styling, layout design, and responsive techniques.
+- **HTML:** For semantic structure and content organization.
+- **CSS:** For styling, layout design, and responsive techniques.
 - **Font Awesome:** For scalable vector icons used throughout the webpage.
 - **JavaScript (optional):** Can be integrated for additional interactivity and functionality.
 
